@@ -86,7 +86,7 @@ struct TopProfileSection: View {
                 .multilineTextAlignment(.center)
                 .foregroundColor(.white)
                 .padding(.horizontal)
-
+                // James was here
             // Level and XP Bar
             VStack {
                 Text("Level \(currentLevel)")
